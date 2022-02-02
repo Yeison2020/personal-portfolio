@@ -19,7 +19,7 @@ const data = [
   },
   {
     number: 2022,
-    text: "Aiming to learn new technologies like React Native while seeking new jobs opportunities",
+    text: "Aiming to learn new technologies while seeking new opportunities",
   },
 ];
 
