@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "Real-time chat application",
+    title: "Real time chat application",
     description:
-      "Real-time chat application using chatengine API and Rendering Component in React with a simple and easy-to-use interface..",
+      "Real time chat application using chatengine API and Rendering Component in React with a simple and easy to use interface.",
     image: "/images/2chat.jpg",
     tags: ["React", "ChatEngine", "Ruby on rails"],
     source: "https://chat-dr.herokuapp.com/",
@@ -10,7 +10,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "ECommerce",
     description:
       "I created this Eccommerce app using React, Ecommerce Js, and Stripe to handle back-end payments. Currently adding authentication using Ruby on Rails.",
     image: "/images/1store.jpg",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Personal Diary",
     description:
-      "The app is a Personal diary for daily Life circumstances created in React, CSS and Ruby on Rails for the back end logic and authentication..",
+      "The app is a Personal diary for daily Life circumstances created in React, CSS and Ruby on Rails for the back end logic and authentication.",
     image: "/images/4personal.jpg",
     tags: ["React", "Ruby on rails", "postgreSQL"],
     source: "https://github.com/Yeison2020/Personal-Diary",
