@@ -48,7 +48,7 @@ export const Box = styled.div`
 export const BoxNum = styled.h5`
   font-style: normal;
   font-weight: 600;
-  font-size: 36px;
+  font-size: 33px;
   line-height: 40px;
   letter-spacing: 0.01em;
   color: #ffffff;
@@ -67,8 +67,8 @@ export const BoxNum = styled.h5`
 export const BoxText = styled.p`
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
-  line-height: 22px;
+  font-size: 15px;
+  line-height: 21px;
   letter-spacing: 0.02em;
   color: rgba(255, 255, 255, 0.75);
 
