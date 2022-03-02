@@ -41,10 +41,10 @@ export const projects = [
   },
   ,
   {
-    title: "Journal React version 2",
+    title: "Journal App",
     description:
       "Using React and Firebase as its back end, I created a new version of a Personal Journal app that manages all the state using Redux..",
-    image: "/images/Newnotes.jpg",
+    image: "/images/Newnotes.png",
     tags: ["React", "Firebase", "Redux"],
     source: "https://github.com/Yeison2020/Journal-react-app",
     visit: "https://www.loom.com/share/8e6a9f0c26564a55ac5c917bac124742",
